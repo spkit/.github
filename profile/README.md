@@ -22,7 +22,7 @@
 <hr>
 
 <div align="center">
-  <a href="https://spkit.github.io"><img src="https://spkit.github.io/assets/logo/Spkit_LandingPage.png" height="550"/></a>
+  <a href="https://spkit.github.io"><img src="https://spkit.github.io/assets/logo/Spkit_LandingPage.png" height="450"/></a>
 </div>
 
 
