@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <img src="https://spkit.github.io/assets/logo/logo.png" height="150"/>
   <div>&nbsp;</div>
