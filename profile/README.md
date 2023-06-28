@@ -2,14 +2,14 @@
   <img src="https://spkit.github.io/assets/logo/logo.png" height="150"/>
   <div>&nbsp;</div>
   <div align="center">
-    <b><font size="5">SpKit website</font></b>
+    <a href="https://spkit.github.io"><b><font size="5">SpKit website</font></b></a>
     <sup>
       <a href="https://spkit.github.io">
         <i><font size="4">H</font></i>
       </a>
     </sup>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <b><font size="5">SpKit Documentation</font></b>
+    <a href="https://spkit.readthedocs.io/en/latest/"><b><font size="5">SpKit Documentation</font></b></a>
     <sup>
       <a href="https://spkit.readthedocs.io/en/latest/">
         <i><font size="4">T</font></i>
